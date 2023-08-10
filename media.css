@@ -85,4 +85,8 @@
     .product{
         line-height: 4.5vh;
     }
+    .nav-bar a:hover+.dropdown, .nav-bar .dropdown:hover {
+        margin-top: 3.5vh;
+        margin-left: 10vw;
+    }
 }
